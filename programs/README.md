@@ -44,11 +44,13 @@ RStudio is recommended for the DeepDive tutorial but not an requirement. You can
 
 ## 3. Obtain Tracer
 
-The program Tracer is used to assess convergence of Bayesian inferences by opening a _log_ file of an analyses. You can download it from [here](https://github.com/beast-dev/tracer/releases). Tracer is an executable file that can just be opened and no installation is needed.
+The program Tracer is used to assess convergence of Bayesian inferences by opening a `log` file of an analyses. You can download it from [here](https://github.com/beast-dev/tracer/releases). Tracer is an executable file that can just be opened and no installation is needed.
 
 ## 4. Download the course repository
 
-- Follow this [link](https://github.com/decoding-the-past/decoding_the_past/archive/refs/heads/main.zip) to download this tutorial's repository. Unzip the folder and rename it `decoding_the_past`.
+- Follow this [link](https://github.com/decoding-the-past/decoding_the_past/archive/refs/heads/main.zip) to download this tutorial's repository.
+- Unzip the compressed file (`decoding_the_past-main.zip`) if not automatically done by your browser and rename it `decoding_the_past`.
+  You can move the `decoding_the_past` folder in your preferred working direcotry. 
 - Open your command prompt window on Windows or a terminal console on Mac/Linux and move with `cd` into the unzipped downloaded folder
 	- You need to use backslashes on Windows, e.g.
 
