@@ -17,9 +17,9 @@ Direct download links:
 This installation has not been tested on machines using ARM CPUs like Chromebooks or Windows and Linux using Qualcomm/Snapdragon chips.
 
 
-If you are using Windows, make sure to check the two boxes _Install launcher_ and _Add python to PATH_
+If you are using Windows, make sure to check the two boxes `Install launcher` and `Add python to PATH`
 
-<img src="https://github.com/decoding-the-past/decoding_the_past/tree/main/figures/python_path.png" alt="Check boxes" width="750">
+<img src="https://github.com/decoding-the-past/decoding_the_past/blob/main/figures/python_path.png" alt="Check boxes" width="750">
 
 ## 2. Install R
 
@@ -127,4 +127,4 @@ Mac/Linux:
 python ./programs/test_programs.py
 ```
 
-<img src="https://github.com/thauffe/cpeg25/blob/main/pictures/test_cpeg_programs.png" alt="test installations" width="500">
+<img src="https://github.com/decoding-the-past/decoding_the_past/blob/main/figures/test_cpeg_programs.png" alt="test installations" width="500">
