@@ -37,7 +37,7 @@ If you are using Windows, you need to manually add the command line version of R
 
 This is a good moment to verify that python has been added to the system PATH during its installation. Check if the PATH includes the directory of your python, e.g. ```C:\Program Files\python312\``` and ```C:\Program Files\python312\Scripts\```.
 
-<img src="https://github.com/decoding-the-past/decoding_the_past/tree/main/figures/rscript.png" alt="system path" width="750">
+<img src="https://github.com/decoding-the-past/decoding_the_past/blob/main/figures/rscript.png" alt="system path" width="750">
 
 RStudio is recommended for the DeepDive tutorial but not an requirement. You can install it from [here](https://posit.co/downloads/).
 
