@@ -19,5 +19,5 @@ DeepDive: [Cooper et al. 2024 Nature Comms](https://www.nature.com/articles/s414
 
 
 ## Latest code developments 
-[PyRate repository](https://github.com/dsilvestro/PyRate)
+[PyRate repository](https://github.com/dsilvestro/PyRate)  
 [DeepDive repository](https://github.com/DeepDive-project)
