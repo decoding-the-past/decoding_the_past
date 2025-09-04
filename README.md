@@ -10,7 +10,7 @@ To get ready for the workshop, please follow the installation [instructions](htt
 1. [BBB](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/BBB)
 2. [PyRate](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/PyRate)
 3. [BDNN](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/BDNN)
-4. [DeepDive](https://github.com/decoding-the-past/decoding_the_past/tree/main/deepdive_analysis/DeepDive_practical.md)
+4. [DeepDive](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/DeepDive)
 
 ## Further reading
 Here are some papers describing the methods:
