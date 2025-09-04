@@ -7,17 +7,19 @@ Understanding how biodiversity has changed through geological time and which mec
 To get ready for the workshop, please follow the installation [instructions](https://github.com/decoding-the-past/decoding_the_past/tree/main/programs)
 
 ## Tutorials
-1. [PyRate](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/PyRate)
-2. [BDNN](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/BDNN)
-3. [DeepDive](https://github.com/decoding-the-past/decoding_the_past/tree/main/deepdive_analysis/DeepDive_practical.md)
+1. [BBB](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/BBB)
+2. [PyRate](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/PyRate)
+3. [BDNN](https://github.com/decoding-the-past/decoding_the_past/tree/main/tutorials/BDNN)
+4. [DeepDive](https://github.com/decoding-the-past/decoding_the_past/tree/main/deepdive_analysis/DeepDive_practical.md)
 
 ## Further reading
-Here are some papers describing the methods we'll present at the workshop:
+Here are some papers describing the methods:
 PyRate: [Silvestro et al. 2019 Paleobiology](https://doi.org/10.1017/pab.2019.23)
 BDNN model: [Hauffe et al. 2024 Science Adv](https://www.science.org/doi/full/10.1126/sciadv.adl2643)
 DeepDive: [Cooper et al. 2024 Nature Comms](https://www.nature.com/articles/s41467-024-48434-7), application note: [Cooper et al. 2024 Methods Eco Evo](https://doi.org/10.1111/2041-210X.70070).
 
 
 ## Latest code developments 
+[rootBBB repository](https://github.com/dsilvestro/rootBBB)  
 [PyRate repository](https://github.com/dsilvestro/PyRate)  
 [DeepDive repository](https://github.com/DeepDive-project)
