@@ -261,9 +261,23 @@ analysis in the command line. Any settings specified by using flags will
 overwrite the configuration settings (remember to replace the `...` with 
 the full path to your `decoding_the_past` folder:
 
+First, activate the virtual environment 
+* Windows
+ 
+    ```
+    cd c:\...\ decoding_the_past
+    .\venv\Scripts\activate
+    ```
+
+* Mac and Linux
+
+    ```
+    cd /.../decoding_the_past
+    source venv/bin/activate
+    ```
+
+Then launch the program (replace `...` with your full path):
 ``` python
-cd /.../decoding_the_past 
-source venv/bin/activate
 cd programs/deepdive
 python run_dd_config.py /.../decoding_the_past/deepdive_analysis/proboscidea_config.ini -plot_features -n_sims 100 -cpu 2
 ```
@@ -301,3 +315,4 @@ occurrences. Methods Ecol. Evol.
 
 Cantalapiedra, J. L. et al. (2021) The rise and fall of proboscidean
 ecological diversity. Nat. Ecol. Evol. 5, 1266–1272.
+
