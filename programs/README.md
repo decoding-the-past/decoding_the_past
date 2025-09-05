@@ -74,11 +74,10 @@ The program Tracer is used to assess convergence of Bayesian inferences by openi
 	python -m venv venv
 	```
  or: 
- 
+	
 	```
 	python3.12 -m venv venv
 	```
-
 - Activate the virtual environment
 
 	- Windows
@@ -93,19 +92,22 @@ The program Tracer is used to assess convergence of Bayesian inferences by openi
 		```
 
 - Check your Python version by typing:
+ 
   ```
   python
   ```
   This should print something like:
+  
   ```
 Python 3.12.3 [...]
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
   ```
 - quit python before going to the next step:
-```
+
+  ```
 quit()
-```
+  ```
 
 
 ## 6. Install python packages
