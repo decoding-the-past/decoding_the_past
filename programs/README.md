@@ -68,7 +68,7 @@ The program Tracer is used to assess convergence of Bayesian inferences by openi
 
 ## 5. Create a virtual python environment
 
-- Create a virtual environment called `venv` within your `decoding_the_past` folder. Sometimes Windows requires ```py``` instead of ```python```
+- Create a virtual environment called `venv` within your `decoding_the_past` folder. Sometimes Windows requires ```py``` instead of ```python```. **Note:** if you had previous versions of Python installed on your machine (especially on a Mac) you may have to type `python3.12` instead of just `python` to make sure the virtual environment is created using the latest version. 
 	
 	```
 	python -m venv venv
@@ -87,7 +87,20 @@ The program Tracer is used to assess convergence of Bayesian inferences by openi
 		source venv/bin/activate
 		```
 
-
+- Check your Python version by typing:
+  ```
+  python
+  ```
+  This should print something like:
+  ```
+Python 3.12.3 [...]
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+  ```
+- quit python before going to the next step:
+```
+quit()
+```
 
 
 ## 6. Install python packages
