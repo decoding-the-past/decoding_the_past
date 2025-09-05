@@ -1,6 +1,6 @@
 # Decoding the past: Bayesian and deep learning methods for macroevolutionary analyses
 
-Understanding how biodiversity has changed through geological time and which mechanisms mediate the uneven extinction and diversification of species are central challenges in paleobiology. Here we present the PyRate and DeepDive programs implementing Bayesian and deep learning methods to analyze fossil occurrence data
+Understanding how biodiversity has changed through geological time and which mechanisms mediate the uneven extinction and diversification of species are central challenges in paleobiology. Here we present a suite of software implementing Bayesian and deep learning methods to analyze fossil occurrence data and infer macroevolutionary parameters. 
 
 ## Program installation
 
