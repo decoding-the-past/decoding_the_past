@@ -14,9 +14,10 @@ To get ready for the workshop, please follow the installation [instructions](htt
 
 ## Further reading
 Here are some papers describing the methods:
-PyRate: [Silvestro et al. 2019 Paleobiology](https://doi.org/10.1017/pab.2019.23)
-BDNN model: [Hauffe et al. 2024 Science Adv](https://www.science.org/doi/full/10.1126/sciadv.adl2643)
-DeepDive: [Cooper et al. 2024 Nature Comms](https://www.nature.com/articles/s41467-024-48434-7), application note: [Cooper et al. 2024 Methods Eco Evo](https://doi.org/10.1111/2041-210X.70070).
+- PyRate: [Silvestro et al. 2019 Paleobiology](https://doi.org/10.1017/pab.2019.23)
+- BDNN model: [Hauffe et al. 2024 Science Adv](https://www.science.org/doi/full/10.1126/sciadv.adl2643)
+- DeepDive: [Cooper et al. 2024 Nature Comms](https://www.nature.com/articles/s41467-024-48434-7), application note: [Cooper et al. 2024 Methods Eco Evo](https://doi.org/10.1111/2041-210X.70070)
+- BBB model: [Silvestro et al. 2021 Nature Eco Evo](https://doi.org/10.1038/s41559-020-01387-8) and [Carlisle et al. 2023 Current Biology](https://doi.org/10.1016/j.cub.2023.06.016)
 
 
 ## Latest code developments 
