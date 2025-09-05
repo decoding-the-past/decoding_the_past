@@ -1,4 +1,4 @@
-# Decoding the past: Bayesian and deep learning methods for macroevolutionary analyses
+# Decoding the past: Bayesian and deep learning methods for macroevolutionary analyses  
 
 Understanding how biodiversity has changed through geological time and which mechanisms mediate the uneven extinction and diversification of species are central challenges in paleobiology. Here we present a suite of software implementing Bayesian and deep learning methods to analyze fossil occurrence data and infer macroevolutionary parameters. 
 
@@ -24,3 +24,5 @@ Here are some papers describing the methods:
 [rootBBB repository](https://github.com/dsilvestro/rootBBB)  
 [PyRate repository](https://github.com/dsilvestro/PyRate)  
 [DeepDive repository](https://github.com/DeepDive-project)
+
+
