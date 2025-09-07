@@ -96,17 +96,19 @@ The program Tracer is used to assess convergence of Bayesian inferences by openi
   ```
   python
   ```
+  
   This should print something like:
   
   ```
-Python 3.12.3 [...]
-Type "help", "copyright", "credits" or "license" for more information.
->>> 
+  Python 3.12.3
+  Type "help", "copyright", "credits" or "license" for more information.
+  >>> 
   ```
+
 - quit python before going to the next step:
 
   ```
-quit()
+  quit()
   ```
 
 
@@ -149,4 +151,4 @@ Mac/Linux:
 python ./programs/test_programs.py
 ```
 
-<img src="https://github.com/decoding-the-past/decoding_the_past/blob/main/figures/test_cpeg_programs.png" alt="test installations" width="500">
+<img src="https://github.com/decoding-the-past/decoding_the_past/blob/main/figures/test_cpeg_programs.png" alt="test installations" width="750">
